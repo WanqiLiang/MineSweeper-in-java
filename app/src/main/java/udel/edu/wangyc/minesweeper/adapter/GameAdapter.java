@@ -14,7 +14,7 @@ import udel.edu.wangyc.minesweeper.MineSweepGame;
 import udel.edu.wangyc.minesweeper.R;
 import udel.edu.wangyc.minesweeper.framework.Game;;
 /**
- * Created by WenkiLiang on 5/7/2018.
+ * Created by WanqiLiang on 5/7/2018.
  */
 public class GameAdapter extends BaseAdapter{
 
